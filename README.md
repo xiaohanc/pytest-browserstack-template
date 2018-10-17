@@ -21,4 +21,4 @@ A template for cross-browser testing with pytest and browserstack, implemented a
 `pytest smoke/test_*.py --alluredir=test-report`
 
 ## Usage
-test sample stored in [Slack](smoke/test_sample.py), contains some very basic usage like parametrize, selenium, pytest-allure and so on.
+test sample stored in [test_sample.py](smoke/test_sample.py), contains some very basic usage like parametrize, selenium, pytest-allure and so on.
