@@ -1,4 +1,4 @@
-requests==2.18.1
+requests==2.20.0
 selenium==3.3.3
 assertlib==0.3.2
 pyvirtualdisplay==0.2.1
